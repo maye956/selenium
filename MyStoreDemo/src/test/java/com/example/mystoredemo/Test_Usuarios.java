@@ -49,6 +49,7 @@ public class Test_Usuarios {
         softAssert.assertEquals(webElement.getAttribute("innerText"), "Sign out");
         softAssert.assertTrue(webElement.isDisplayed(),"Usuario no logueado");
         webElement.click();
+        //esto lo agrego en el branch
     }
 
     @DataProvider (name="data")
