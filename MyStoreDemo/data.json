@@ -1,0 +1,14 @@
+[
+  {
+    "usuario": {
+      "mail": "mail@prueba.com",
+      "pass": "julianita"
+    }
+  },
+  {
+    "usuario": {
+      "mail": "mail4@prueba.com",
+      "pass": "julianita"
+    }
+  }
+]
