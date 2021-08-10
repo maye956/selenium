@@ -50,6 +50,7 @@ public class Test_Usuarios {
         softAssert.assertTrue(webElement.isDisplayed(),"Usuario no logueado");
         webElement.click();
         //comentario
+        //comentario2
     }
 
     @DataProvider (name="data")
