@@ -50,6 +50,8 @@ public class Test_Usuarios {
         softAssert.assertTrue(webElement.isDisplayed(),"Usuario no logueado");
         webElement.click();
         //esto lo agrego en el branch
+        //sigo escribiendo fuera del branch, pero hice un merge asi que veo el comentario del branch
+//        pero el no puede ver el mio
     }
 
     @DataProvider (name="data")
